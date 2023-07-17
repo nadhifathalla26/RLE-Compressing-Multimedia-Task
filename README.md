@@ -1,2 +1,2 @@
 # RLE-Compressing-Multimedia-Task
-Repository Untuk Tugas Kompresi Citra dengan RLE Multimedia ITERA
+In this project, me and my group are creating RLE algorithm using python to compress lena picture. The result from this research can be see in the notebook.
